@@ -32,3 +32,7 @@ https://www.kaggle.com/datasets/jihyeseo/online-retail-data-set-from-uci-ml-repo
 - Loyalty
 - Average quantity for each cohort
 - Use the heat map to visualize the relationship between the above properties.
+
+  ![alt text](https://github.com/ervhart/Cohort-Analysis/blob/main/Capture_CA.PNG)
+
+  ![alt text](https://github.com/ervhart/Cohort-Analysis/blob/main/Capture_CA1.PNG)
