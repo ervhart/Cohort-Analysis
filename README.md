@@ -17,12 +17,6 @@ Cohort analysis is important for the growth of a business because of the specifi
 - Behaviour Cohort
 - Size Cohort
 
-To learn more about the types, a simple Google search will help. Thanks.
-
-# Link to dataset:
-
-https://www.kaggle.com/datasets/jihyeseo/online-retail-data-set-from-uci-ml-repo?resource=download
-
 # Properties calculated:
 
 - Billing period
